@@ -1,3 +1,11 @@
 07:56 a. m. 15/08/2023
 
 actualizaciones
+
+12:14 p. m. 26/08/2023
+Subo una carpeta que contiene el https://www.youtube.com/watch?v=7vHzVN0EiQc
+Curso de Java Fullstack Completo (springboot, hibernate, JWT, API Rest)
+
+Falta agregar el verdadero control a través de tokens, pero ya está funcional
+
+Falta a partir del minuto: 03:25:32 - ¿Qué es HASH y cómo funcionan las Contraseñas?

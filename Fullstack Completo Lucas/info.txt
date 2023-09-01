@@ -1,0 +1,13 @@
+09:08 a. m. 26/08/2023
+Este es un proyecto que seguí sobre el Curso que está en youtube de Lucas Moy
+
+https://www.youtube.com/watch?v=7vHzVN0EiQc
+Curso de Java Fullstack Completo (springboot, hibernate, JWT, API Rest)
+
+Esta parte está funcional
+
+Falta agregar el verdadero control a través de tokens
+
+Falta a partir del minuto: 03:25:32 - ¿Qué es HASH y cómo funcionan las Contraseñas?
+
+Lo recomiendo para hacer ejercicios con postman y conocer una API
