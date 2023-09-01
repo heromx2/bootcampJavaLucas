@@ -9,3 +9,10 @@ Curso de Java Fullstack Completo (springboot, hibernate, JWT, API Rest)
 Falta agregar el verdadero control a través de tokens, pero ya está funcional
 
 Falta a partir del minuto: 03:25:32 - ¿Qué es HASH y cómo funcionan las Contraseñas?
+
+-
+07:23 a. m. 01/09/2023
+
+Agrego el proyecto demo
+este contiene una API donde tiene todo el CRUD, no tiene frontend, para poder usarlo y entenderlo envía las peticiones con Postman.
+-
